@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4046dc9d-364a-487e-b915-fe13d781979d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/base_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/base_driver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,14 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="154">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_driver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/base/base_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -57,6 +65,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/scripts/test_login.py" />
+        <option value="$PROJECT_DIR$/base/base_driver.py" />
       </list>
     </option>
   </component>
@@ -127,6 +136,14 @@
       <option name="presentableId" value="Default" />
       <updated>1552183548585</updated>
     </task>
+    <task id="LOCAL-00001" summary="跳转到登录页面">
+      <created>1552185322029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552185322029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -155,6 +172,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="跳转到登录页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="跳转到登录页面" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/base/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -168,11 +189,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="154">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
